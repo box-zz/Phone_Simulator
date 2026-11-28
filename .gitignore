@@ -1,0 +1,13 @@
+# Local phone projects, exports, and private test assets do not belong in Git.
+/exports/
+/backups/
+/test-data/
+/screenshots/
+/assets-private/
+*.zip
+shiguang-project*.json
+*-手机体验.html
+*.local.json
+*.log
+.DS_Store
+Thumbs.db
